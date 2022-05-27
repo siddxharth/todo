@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This app is deployed here: [https://todo-five-cyan.vercel.app](https://todo-five-cyan.vercel.app)
+
 ## Available Scripts
 
 In the project directory, you can run:
